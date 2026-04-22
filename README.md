@@ -26,9 +26,9 @@ Les données des matchs sont récupérées depuis :
 https://www.thesportsdb.com/
 ---
 ## 📱 Aperçu
-<img width="305" height="711" alt="image" src="https://github.com/user-attachments/assets/d2310baf-4422-4ad2-a263-423efecc63ec" />
-<img width="311" height="708" alt="image" src="https://github.com/user-attachments/assets/ad5dc861-44a0-4018-9bb0-9957218094e1" />
-<img width="312" height="701" alt="image" src="https://github.com/user-attachments/assets/e4314cc9-f799-4673-8d99-1d3b8499935d" />
+<img width="105" height="511" alt="image" src="https://github.com/user-attachments/assets/d2310baf-4422-4ad2-a263-423efecc63ec" />
+<img width="111" height="508" alt="image" src="https://github.com/user-attachments/assets/ad5dc861-44a0-4018-9bb0-9957218094e1" />
+<img width="112" height="501" alt="image" src="https://github.com/user-attachments/assets/e4314cc9-f799-4673-8d99-1d3b8499935d" />
 
 
 
