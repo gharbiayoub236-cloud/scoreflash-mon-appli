@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082405931716",
+    "project_id": "score-abaf7",
+    "storage_bucket": "score-abaf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082405931716:android:57bd5d517cb2f9b9b79791",
+        "android_client_info": {
+          "package_name": "com.example.score_flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90iXHmQBXv2eSfQtsCRdN_PqXHAyDbik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
